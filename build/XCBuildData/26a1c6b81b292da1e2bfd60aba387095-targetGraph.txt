@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+Realm in Pods, no dependencies
+RealmSwift in Pods, depends on:
+Realm in Pods (explicit)
+Pods-AppBank in Pods, depends on:
+Realm in Pods (explicit)
+RealmSwift in Pods (explicit)
+Pods-AppBank-AppBankUITests in Pods, depends on:
+Realm in Pods (explicit)
+RealmSwift in Pods (explicit)
+Pods-AppBankTests in Pods, depends on:
+Pods-AppBank in Pods (explicit)

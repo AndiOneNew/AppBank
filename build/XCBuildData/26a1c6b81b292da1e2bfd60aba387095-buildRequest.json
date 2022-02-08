@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98328548f0b810fc5fcd18229d7d7c3ece"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b13933e06597489099386442300ad7aa"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9882963550ae38f277fc532b0121707ed4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c55f754f2a4256631cf6e7955c79207c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9881644adaf2ad701878e9176138fbdacd"
+    }
+  ],
+  "containerPath" : "/Users/ilanovikov/projects/AppBank/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ilanovikov/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ilanovikov/Library/Developer/Xcode/DerivedData/Pods-evujvpyctshfmmdmuyhjxgavhqhs/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ilanovikov/Library/Developer/Xcode/DerivedData/Pods-evujvpyctshfmmdmuyhjxgavhqhs/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
